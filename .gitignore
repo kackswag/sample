@@ -1,0 +1,6 @@
+# Ignore API keys
+.env
+# Ignore Tailwind build files if applicable
+dist/
+# Node modules folder
+node_modules/
